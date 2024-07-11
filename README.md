@@ -38,11 +38,7 @@ This repository contains projects and exercises completed using Scilab for numer
 6. **Scicos/xcos Simulations**
    - Generated and studied waveforms (sine, square, sawtooth), simulated harmonic oscillators, and analyzed heat phenomena using Scicos/xcos.
 
-### Usage
-Each project folder contains detailed documentation and Scilab scripts (`*.sce` or `*.sci`) demonstrating the implementation of the discussed topics.
 
-### License
-This repository is licensed under the [MIT License](LICENSE).
 
 ### Author
 Vishwas Khandelwal
