@@ -1,4 +1,4 @@
-//Suryakant Sharma 21730823
+//Vishwas Khandelwal 17036567106
 //program  to solve the differential equation of radioactive decay,newton;s law of cooling, discharging rc circuit by rk-2 method
 clear
 clf()
