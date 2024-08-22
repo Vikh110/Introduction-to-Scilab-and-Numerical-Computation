@@ -1,4 +1,4 @@
-//Suryakant Sharma 21730823
+//Vishwas Khandelwal 17036567106
 //program to solve the given linear equations by gauss elimination method
 clear()
 clf()
