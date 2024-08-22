@@ -1,4 +1,4 @@
-//Suryakant Sharma 21730823
+//Vishwas Khandelwal 17036567106
 //program to solve the given linear equations by gauss seidal
 //a1x+b1y+c1z=d1
 //a2x+b2y+c2z=d2
