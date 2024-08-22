@@ -1,4 +1,4 @@
-//Suryakant Sharma 21730823
+//Vishwas Khandelwal 17036567106
 //program to diagonalise the given matrix
 a=[4 5 6;2 3 4;3 4 5];
 [c,d]=spec(a);
