@@ -1,4 +1,4 @@
-//Suryakant Sharma 21730823
+//Vishwas Khandelwal 17036567106
 //program to solve  differential equation of radioactive decay,newton's law of cooling,rc circuit by modified euler method
 K=1;
 function F=f(m,n)
