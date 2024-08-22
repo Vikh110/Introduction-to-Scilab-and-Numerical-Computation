@@ -1,4 +1,4 @@
-//Suryakant Sharma 21730823
+//Vishwas Khandelwal 17036567106
 //program to arrange the given list of numbers in ascending. or descending order
 disp("select among the following:")
 disp("2-descending order","1-ascending order")
