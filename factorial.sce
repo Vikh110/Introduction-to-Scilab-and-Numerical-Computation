@@ -1,4 +1,4 @@
-//Suryakant Sharma 21730823
+//Vishwas Khandelwal 17036567106
 //program to print the factorial of the given number
 a=input("enter the no.")
 f=1;
