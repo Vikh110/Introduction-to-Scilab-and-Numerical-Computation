@@ -1,4 +1,4 @@
-//Suryakant Sharma 21730823
+//Vishwas Khandelwal 17036567106
 //program to print the prime numbers in a given range
 a=input("enter initial no.")
 l=input("enter last no.")
